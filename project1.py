@@ -3,7 +3,7 @@ import mysql.connector
 con=mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Rashi@1156",
+    password="your_password"
     database="SMS_Demo"
 )
 print("database created successfully")
